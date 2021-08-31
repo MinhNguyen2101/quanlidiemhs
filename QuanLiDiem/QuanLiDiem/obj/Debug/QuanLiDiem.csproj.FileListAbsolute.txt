@@ -1,0 +1,17 @@
+D:\C#\QuanLiDiem\QuanLiDiem\bin\Debug\QuanLiDiem.exe.config
+D:\C#\QuanLiDiem\QuanLiDiem\bin\Debug\QuanLiDiem.exe
+D:\C#\QuanLiDiem\QuanLiDiem\bin\Debug\QuanLiDiem.pdb
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.csproj.AssemblyReference.cache
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.frm_Login.resources
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.Properties.Resources.resources
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.csproj.GenerateResource.cache
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.csproj.CoreCompileInputs.cache
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.exe
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.pdb
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.frm_TrangChu.resources
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.frm_Lop.resources
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.frm_HocSinh.resources
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.frm_NamHoc.resources
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.frm_MonHoc.resources
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.frm_Diem.resources
+D:\C#\QuanLiDiem\QuanLiDiem\obj\Debug\QuanLiDiem.frm_DiemChiTiet.resources
